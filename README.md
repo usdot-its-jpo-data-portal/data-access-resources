@@ -1,4 +1,4 @@
-# data-access-coe-resources
+# data-access-resources
 Resources for U.S. DOT Data Access.
 
 See below for templates and instructions related to the U.S. DOT data management requirements.
